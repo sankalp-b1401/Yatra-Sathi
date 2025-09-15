@@ -8,7 +8,7 @@ A Smart Tourist Safety Monitoring & Incident Response System that leverages AI, 
 
 - **Team Name:** SIH Chale hum
 - **Team Leader:** [Saakshi Matale](https://github.com/Saakesi)
-- **Team Members:** [Harsh Singhal](https://github.com/singhalharsh1611), [Namita Yadav](https://github.com/NamitaYGit), [Sankalp Bansal](https://github.com/sankalp-b1401), [Tanish Gupta](https://github.com/TanishG01)
+- **Team Members:** [Harsh Singhal](https://github.com/singhalharsh1611), [Namita Yadav](https://github.com/NamitaYGit), [Sankalp Bansal](https://github.com/sankalp-b1401), [Tanish Gupta](https://github.com/TanishG01), [Vishesh Vigh](https://github.com/Vishi-Ali)
 
 ---
 
